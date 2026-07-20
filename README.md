@@ -53,14 +53,6 @@ and Docker.
 
 ---
 
-### 💼 Experience
-
-- **AI/ML Intern** — *NewMind AI* (06.2025 – 01.2026) · NLP, STT & LLM systems (WhisperX, NeMo, vLLM), Kafka pipelines, secure LLM architectures
-- **Software Instructor** — *Logiscool Türkiye* (02.2025 – 04.2025) · programming & robotics training for ages 7–17
-- **AI/ML Intern** — *DIATICS Digital Intelligence* (07.2024 – 09.2024) · computer vision (YOLO, OpenPose, PoseNet)
-- **Volunteer Software Intern & .NET Developer** — *Romsis Business Solutions* (11.2023 – 06.2024) · ASP.NET Core, SQL Server, REST APIs
-
----
 
 ### 🛠️ Tech Stack
 
