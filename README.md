@@ -2,10 +2,6 @@
 <h3 align="center">Computer Engineer · AI / NLP · Speech Recognition (ASR) · LLMs</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to work" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/nuryağmurtuncer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/yagmurtuncer"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://medium.com/@y.tuncer1004"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -25,7 +21,7 @@ and Docker.
 - 🏥 Work spans medical AI, multimodal deepfake detection, and privacy-preserving LLM architectures
 - 🤗 Published Turkish **NLP & speech datasets and models** on [Hugging Face](https://huggingface.co/yagmurtuncer)
 - 🚀 Co-founder of **PulsarMetric**, a health-tech startup (ECG analysis & training)
-- 📫 Reach me at **y.tuncer1004@gmail.com** · **Open to job opportunities**
+- 📫 Reach me at **y.tuncer1004@gmail.com**
 
 ---
 
