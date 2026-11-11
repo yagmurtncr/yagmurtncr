@@ -41,6 +41,7 @@ and Docker.
 | Project | Description |
 |---------|-------------|
 | **[turkmedstt](https://github.com/yagmurtncr/turkmedstt)** | Turkish medical ASR (TÜBİTAK 2209-A). Two-stage LoRA fine-tuned Whisper Large V3 — **−34.7% WER, −58.6% CER** vs. base; 20-model benchmark + HF leaderboard/demo |
+| **[TurnTurk-GPT](https://huggingface.co/tugrulbayrak/TurnTurk-Gpt)** | Co-author · First Turkish word-level end-of-turn prediction model for voice agents — TurnGPT on Turkish GPT-2, synthetic pre-training + real fine-tuning ([arXiv:2610.42010](https://arxiv.org/abs/2610.42010)) |
 | **[multimodal-deepfake-detection](https://github.com/yagmurtncr/multimodal-deepfake-detection)** | Multi-task deepfake detection on FakeAVCeleb — Xception + Wav2Vec 2.0 + lip-sync via late fusion (any-AUC **0.9994**) |
 | **[privacy-preserving-medical-llm](https://github.com/yagmurtncr/privacy-preserving-medical-llm)** | Secure medical LLM for cardiovascular risk — Llama 3.1 8B, split learning, AES-256-GCM / RSA-4096, JWT, audit logging |
 | **[Speech-to-Text-Api](https://github.com/yagmurtncr/Speech-to-Text-Api)** | Enterprise ASR API — WhisperX / NeMo / Parakeet, diarization, emotion, Kafka + MongoDB + Elasticsearch |
